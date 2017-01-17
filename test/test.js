@@ -1,7 +1,7 @@
 'use strict';
 
 let assert = require('assert');
-let index = require('./index');
+let index = require('../index');
 
 describe('Array', function(){
   describe('Sum of [1,2,3,4] + (array[i] + 1)', function(){
